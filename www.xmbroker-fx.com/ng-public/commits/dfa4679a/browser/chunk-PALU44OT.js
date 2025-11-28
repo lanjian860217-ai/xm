@@ -1,3 +1,2 @@
-‹€function c(r){return Array.isArray(r)?r:[r]}export{c as a};
-d><body><pre style="word-wrap: break-word; white-space: pre-wrap;">function c(r){return Array.isArray(r)?r:[r]}export{c as a};
+<html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">function c(r){return Array.isArray(r)?r:[r]}export{c as a};
 </pre></body></html>
