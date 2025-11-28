@@ -1,0 +1,20 @@
+<html><head><meta name="color-scheme" content="light dark"><meta charset="utf-8"></head><body><pre>{
+  "header_contactUs": "Contact Us",
+  "header_discover_tradingTools_newsAndAnalyis": "News and Analysis",
+  "header_economicCalendar": "Economic Calendar",
+  "header_forexCalculators": "Forex Calculators",
+  "header_liveEducation": "Live Education",
+  "helpCenter_backToHelpCenter": "Back to Help Center",
+  "helpCenter_helloHowCan": "Hello, how can we help you?",
+  "helpCenter_ifYouHave": "If you have a question that isn't covered in the Help Center, please contact us and one of our representatives will be happy to help you.",
+  "helpCenter_moreResources": "More Resources",
+  "helpCenter_needHelp": "Need Help?",
+  "helpCenter_noResultsFound": "No results found",
+  "helpCenter_orChooseOne": "Or &lt;strong&gt;choose one of the categories below&lt;/strong&gt; to find the information you are looking for.",
+  "helpCenter_pleaseTryADifferent": "Please try a different term",
+  "helpCenter_showingNumberOfResults": "Showing &lt;strong&gt;{{number}}&lt;/strong&gt; result(s)",
+  "helpCenter_viewAll": "View All",
+  "helpCenter_yourSearchDidNot": "Your search {{search}} did not match any results",
+  "help_center": "Help Center",
+  "search": "Search"
+}</pre><div class="json-formatter-container"></div></body></html>
