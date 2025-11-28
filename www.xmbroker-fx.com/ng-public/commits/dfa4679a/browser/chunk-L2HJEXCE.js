@@ -1,0 +1,2 @@
+<html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">import{oa as o,p as r}from"./chunk-RQNR3KSB.js";var n=(()=&gt;{let e=class e{constructor(){this.emailProvidedSubject=new r(void 0),this.emailProvided$=this.emailProvidedSubject.asObservable()}setEmailProvided(i){this.emailProvidedSubject.next(i)}};e.\u0275fac=function(a){return new(a||e)},e.\u0275prov=o({token:e,factory:e.\u0275fac,providedIn:"root"});let t=e;return t})();export{n as a};
+</pre></body></html>

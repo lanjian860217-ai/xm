@@ -1,0 +1,2 @@
+<html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">import{a as s}from"./chunk-KR32PZFI.js";import{Rb as o}from"./chunk-RQNR3KSB.js";var p=(()=&gt;{let t=class t{transform(i,r){return s(i,r.isProduction,r.brandConfig)}};t.\u0275fac=function(r){return new(r||t)},t.\u0275pipe=o({name:"assets",type:t,pure:!0});let e=t;return e})();export{p as a};
+</pre></body></html>

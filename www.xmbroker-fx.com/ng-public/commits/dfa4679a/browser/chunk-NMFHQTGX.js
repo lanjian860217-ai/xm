@@ -1,0 +1,2 @@
+<html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">var t=(function(n){return n.Standard="standard",n.GidIndiaUltraLow="India_Ultra_Low",n.GidIndiaStandardAccount="India_standard_account",n})(t||{}),d=(function(n){return n.AccountType="accountType",n.CountryConfiguration="countryConfiguration",n})(d||{}),r=(function(n){return n.LowSpreads="low_spreads",n})(r||{});export{t as a,d as b,r as c};
+</pre></body></html>
