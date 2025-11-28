@@ -1,2 +1,0 @@
-<html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">import{a as o}from"./chunk-Z5WUBFAP.js";import{ta as n}from"./chunk-RQNR3KSB.js";function c(s,f,t){let e=t?t.config:n(o).config,r=e?.baseHref?`/${e.baseHref}/ng-public/assets/`:"/ng-public/assets/";return f?r+s:`/assets/${s}`}export{c as a};
-</pre></body></html>

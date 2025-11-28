@@ -1,2 +1,0 @@
-<html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">import{s as o}from"./chunk-GCG7ZRMR.js";import{Rb as s,ta as e}from"./chunk-RQNR3KSB.js";var u=(()=&gt;{let t=class t{constructor(){this.sanitizer=e(o)}transform(i){return this.sanitizer.bypassSecurityTrustHtml(i)}};t.\u0275fac=function(n){return new(n||t)},t.\u0275pipe=s({name:"safeInnerHtml",type:t,pure:!0});let r=t;return r})();export{u as a};
-</pre></body></html>

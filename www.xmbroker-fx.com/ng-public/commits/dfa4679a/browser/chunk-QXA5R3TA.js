@@ -1,2 +1,0 @@
-<html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">import{b as o}from"./chunk-LIRJDPZH.js";import{Rb as n,ta as a}from"./chunk-RQNR3KSB.js";var p=(()=&gt;{let e=class e{constructor(){this.languageService=a(o)}transform(r,i=!1){return i?this.languageService.langPrefixRouteWithUpdates(r):this.languageService.langPrefixRoute(r)}};e.\u0275fac=function(i){return new(i||e)},e.\u0275pipe=n({name:"languagePrefix",type:e,pure:!0});let t=e;return t})();export{p as a};
-</pre></body></html>
