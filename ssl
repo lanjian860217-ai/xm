@@ -1,0 +1,27 @@
+server {
+    listen 443 ssl;
+    server_name _;
+
+
+       ssl_certificate /data/ssl/www.netglider.net.pem;  # PEM格式证书文件路径
+       ssl_certificate_key /data/ssl/www.netglider.net.key;  # 私钥文件路径
+
+       # ===== SSL安全优化 =====
+       # 仅启用安全的TLS协议版本
+       ssl_protocols TLSv1.2 TLSv1.3;
+       # 高效且安全的加密套件
+       ssl_ciphers ECDHE-ECDSA-AES128-GCM-SHA256:ECDHE-RSA-AES128-GCM-SHA256:ECDHE-ECDSA-AES256-GCM-SHA384:ECDHE-RSA-AES256-GCM-SHA384:ECDHE-ECDSA-CHACHA20-POLY1305:ECDHE-RSA-CHACHA20-POLY1305:DHE-RSA-AES128-GCM-SHA256:DHE-RSA-AES256-GCM-SHA384;
+       ssl_prefer_server_ciphers on;
+       # SSL会话缓存，提升连接速度
+       ssl_session_cache shared:SSL:10m;
+       ssl_session_timeout 10m;
+       # HSTS强制HTTPS访问（可选）
+       add_header Strict-Transport-Security "max-age=31536000; includeSubDomains" always;
+    root         /usr/share/nginx/html;
+
+     location / {
+               # 先尝试访问不带后缀的路径对应的文件，若不存在则尝试.html文件，最后返回404
+               try_files $uri $uri.html $uri/ =404;
+           }
+
+}
