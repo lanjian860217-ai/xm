@@ -1,0 +1,11 @@
+<html><head><meta name="color-scheme" content="light dark"><meta charset="utf-8"></head><body><pre>{
+"error": {
+"title": "validation error",
+"detail":  "Missing required request parameters: [tp-brand-name]",
+"service": "promotions-service",
+"type": "errValidation",
+"time": "29/Nov/2025:04:11:01 +0000",
+"reason": []
+}
+}
+</pre><div class="json-formatter-container"></div></body></html>
